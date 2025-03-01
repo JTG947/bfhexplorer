@@ -98,8 +98,8 @@ export default function Connect() {
   return (
     <>
       <Head>
-        <title>Dexplorer | Connect</title>
-        <meta name="description" content="Dexplorer | Connect to RPC Address" />
+        <title>BFHDEXplorer | Connect</title>
+        <meta name="description" content="BFHDEXplorer | Connect to RPC Address" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -125,7 +125,7 @@ export default function Connect() {
             fontFamily="monospace"
             fontWeight="bold"
           >
-            Dexplorer
+            BFHDEXplorer
           </Heading>
           <Text as={'h2'} fontSize="lg" textAlign={'center'} mb={5}>
             Disposable Cosmos SDK Chain Explorer

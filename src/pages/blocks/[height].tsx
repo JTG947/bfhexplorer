@@ -123,8 +123,8 @@ export default function DetailBlock() {
   return (
     <>
       <Head>
-        <title>Detail Block | Dexplorer</title>
-        <meta name="description" content="Block | Dexplorer" />
+        <title>Detail Block | BFHDEXplorer</title>
+        <meta name="description" content="Block | BFHDEXplorer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

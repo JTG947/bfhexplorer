@@ -114,8 +114,8 @@ export default function Blocks() {
   return (
     <>
       <Head>
-        <title>Blocks | Dexplorer</title>
-        <meta name="description" content="Blocks | Dexplorer" />
+        <title>Blocks | BFHDEXplorer</title>
+        <meta name="description" content="Blocks | BFHDEXplorer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

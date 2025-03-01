@@ -1,22 +1,22 @@
 <div align="center">
-  <h1 align="center">Dexplorer</h1>
+  <h1 align="center">BFHDEXplorer</h1>
 
   <p align="center">
     Disposable Cosmos-based Blockchain Explorer
     <br />
     <br />
-    <a href="https://github.com/arifintahu/dexplorer/issues">Report Issues</a>
+    <a href="https://github.com/arifintahu/BFHDEXplorer/issues">Report Issues</a>
     ·
-    <a href="https://github.com/arifintahu/dexplorer/issues">Request Feature</a>
+    <a href="https://github.com/arifintahu/BFHDEXplorer/issues">Request Feature</a>
   </p>
 
-[![GitHub](https://img.shields.io/github/license/arifintahu/dexplorer.svg)](https://github.com/arifintahu/dexplorer/blob/main/LICENSE)
-[![Dexplorer Deploy](https://vercelbadge.vercel.app/api/arifintahu/dexplorer)](https://github.com/arifintahu/dexplorer/deployments/activity_log)
-[![Contributors](https://img.shields.io/github/contributors/arifintahu/dexplorer)](https://github.com/arifintahu/dexplorer/graphs/contributors)
+[![GitHub](https://img.shields.io/github/license/arifintahu/BFHDEXplorer.svg)](https://github.com/arifintahu/BFHDEXplorer/blob/main/LICENSE)
+[![BFHDEXplorer Deploy](https://vercelbadge.vercel.app/api/arifintahu/BFHDEXplorer)](https://github.com/arifintahu/BFHDEXplorer/deployments/activity_log)
+[![Contributors](https://img.shields.io/github/contributors/arifintahu/BFHDEXplorer)](https://github.com/arifintahu/BFHDEXplorer/graphs/contributors)
 
 </div>
 
-`Dexplorer` is a disposable light explorer for Cosmos-based blockchains. It is designed to connect to any Cosmos SDK chain using only WebSocket RPC. This can be useful when developing Cosmos-based chains and exploring blockchain data through a UI.
+`BFHDEXplorer` is a disposable light explorer for Cosmos-based blockchains. It is designed to connect to any Cosmos SDK chain using only WebSocket RPC. This can be useful when developing Cosmos-based chains and exploring blockchain data through a UI.
 
 ## Features
 
@@ -28,9 +28,9 @@
 - A list of proposals
 - Blockchain parameters
 
-## How is Dexplorer different from other explorers?
+## How is BFHDEXplorer different from other explorers?
 
-`Dexplorer` is only a frontend app, meaning there is no cache or pre-processing. It pulls data from RPC as needed.
+`BFHDEXplorer` is only a frontend app, meaning there is no cache or pre-processing. It pulls data from RPC as needed.
 
 ## Contributing
 
